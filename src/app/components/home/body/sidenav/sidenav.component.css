@@ -1,0 +1,150 @@
+/* sidenav */
+.category_box{
+    background-color: #F6F7F9;
+    box-shadow: 0 11px 20px -15px rgba(0, 0, 0, 0.3);
+    padding: 40px; 
+    
+}
+.category_box>p{
+  cursor: pointer;
+}
+
+.brand-box .btn{
+  margin-bottom: 0px;
+ 
+}
+.sort-box{
+    background-color: #F6F7F9;
+    border-radius: 6px;
+    box-shadow: 0 11px 20px -15px rgba(0, 0, 0, 0.3);
+    padding: 0px 20px;
+    margin-top: 20px;
+    padding-left: 10px;
+  }
+.box-cover{
+    background-color: #F6F7F9;
+    border-radius: 6px;
+    box-shadow: 0 11px 20px -15px rgba(0, 0, 0, 0.3);
+    overflow: hidden;
+}
+.price-box, .brand-box {
+    background-color: #F6F7F9;
+    border-radius: 6px;
+    box-shadow: 0 11px 20px -15px rgba(0, 0, 0, 0.3);
+    padding: 40px;
+    margin-top: 25px;
+}
+
+
+.input-box{
+  width: 100%;
+}
+
+.more-btn{
+  width: 100%;
+  margin-top: 25px;
+  background-color: #F6F7F9;
+  box-shadow: 0 11px 20px -15px grey;
+  margin-bottom: 20px;
+}
+
+/* color picker */
+.color {
+    margin-top: 25px;
+    background-color: #F6F7F9;
+    border-radius: 6px;
+    padding: 40px;
+    box-shadow: 0 11px 20px -15px rgba(0, 0, 0, 0.3);
+    overflow: hidden;
+}
+.color-selector{
+    display: flex;
+    flex-direction: row;
+    justify-items: center;
+    margin-left: 20px;
+    
+}
+.category_box a{
+  text-decoration: none;
+  color: black;
+}
+.category_box .btn{
+  padding-right: 30px;
+}
+.category_box .btn:active{
+  color: #2185D0;
+}
+.category_box .btn:hover{
+  color:grey;
+}
+
+.brand-box .btn:active{
+  color: #2185D0;
+}
+.brand-box .btn:hover{
+  color:grey;
+}
+
+  input[type="radio"] {
+    display: none;
+  }
+  input[type="radio"]:checked + label span {
+    transform: scale(1.25);
+  }
+  
+  input[type="radio"]:checked + label .orange {
+    border: 5px solid #873a08;
+  }
+  input[type="radio"]:checked + label .yellow {
+    border: 5px solid #816102;
+  }
+  
+  input[type="radio"]:checked + label .green {
+    border: 5px solid #0e4e1d;
+  }
+  
+  input[type="radio"]:checked + label .blue {
+    border: 5px solid #103f62;
+  }
+  
+  input[type="radio"]:checked + label .pink {
+    border: 5px solid #851554;
+  }
+  label {
+    display: inline;
+    width: 35px;
+    height: 35px;
+    margin-right: 10px;
+    cursor: pointer;
+  }
+  label:hover span {
+    transform: scale(1.25);
+    border-radius:20px;
+  }
+  label span {
+    display:inline-block;
+    width: 100%;
+    height: 85%;
+    border-radius:50%;
+    transition: transform 0.2s ease-in-out;
+  }
+  
+  label span.orange {
+    background: #F2711C;
+  }
+  label span.yellow {
+    background: #FBBD08;
+  }
+  
+  label span.green {
+    background: #21BA45;
+  }
+  
+  label span.blue {
+    background: #2185D0;
+  }
+  
+  label span.pink {
+    background: #E03997;
+  }
+  

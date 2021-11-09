@@ -1,0 +1,90 @@
+<div>
+    <div class="row">
+        <div class="col-md-12 font-weight-bold d-flex flex-column flex-wrap  category_box">
+            <h4>ALL CATEGORIES</h4>
+            <p class="text-primary" (click)="categorySelection('smartphones')">Smartphones</p>
+            <p class="" (click)="categorySelection('accessory')">Accesories</p>
+            <p class="" (click)="categorySelection('cables')">Cables & Docks</p>
+            <p class="" (click)="categorySelection('cases')">Cases & Films</p>
+            <p class="" (click)="categorySelection('headphones')">Headphones</p>
+        </div>
+    </div>
+    <div class="row price-box">
+        <div class="col-md-12 ">
+            <h4>PRICE</h4>
+            <div class="mt-4 price">
+                <div class="d-flex justify-content-between">
+                    <label for="#low-p" class="font-weight-bold">Min</label>
+                    <label for="#high-p" class="font-weight-bold">Max</label>
+                </div>
+                <div class="d-flex justify-content-between">
+                    <input type="number" min="100" max="500000" id="low-p" placeholder="$100" class="input-box">
+                    <span class="px-3">-</span>
+                    <input type="number" min="100" max="500000" id="high-p" placeholder="$500000" class="input-box">
+                </div>
+            </div>
+
+        </div>
+    </div>
+    <div class="row">
+        <div class="col-md-12 color">
+            <h4>COLOR</h4>
+            <div class="color-selector mt-4">
+                <input type="radio" name="color" id="green" />
+                <label for="green"><span class="green"></span></label>
+
+                <input type="radio" name="color" id="yellow" />
+                <label for="yellow"><span class="yellow"></span></label>
+
+                <input type="radio" name="color" id="orange" />
+                <label for="orange"><span class="orange"></span></label>
+
+                <input type="radio" name="color" id="blue" />
+                <label for="blue"><span class="blue"></span></label>
+
+                <input type="radio" name="color" id="pink" />
+                <label for="pink"><span class="pink"></span></label>
+            </div>
+        </div>
+    </div>
+    <div class="row brand-box p-4">
+        <div class="col-md-12  ">
+            <h4>BRAND</h4>
+            <br>
+
+            <span class="d-flex justify-content-between font-weight-bold" (click)="brandSelection('apple')">
+                <p class="btn text-primary">Apple</p>
+                <p class="pt-2">8</p>
+            </span>
+            <span class="d-flex justify-content-between font-weight-bold" (click)="brandSelection('samsung')">
+                <p class="btn">Samsung</p>
+                <p class="pt-2">9</p>
+            </span>
+            <span class="d-flex justify-content-between font-weight-bold" (click)="brandSelection('nokia')">
+                <p class="btn">Nokia</p>
+                <p class="pt-2">3</p>
+            </span>
+            <span class="d-flex justify-content-between font-weight-bold" (click)="brandSelection('redmi')">
+                <p class="btn">Redmi</p>
+                <p class="pt-2">10</p>
+            </span>
+            <span class="d-flex justify-content-between font-weight-bold" (click)="brandSelection('realme')">
+                <p class="btn">Realme</p>
+                <p class="pt-2">6</p>
+            </span>
+            <span class="d-flex justify-content-between font-weight-bold" (click)="brandSelection('motorola')">
+                <p class="btn">Motorola</p>
+                <p class="pt-2">2</p>
+            </span>
+            <span class="d-flex justify-content-between font-weight-bold" (click)="brandSelection('others')">
+                <p class="btn">Other Brands</p>
+                <p class="pt-2">12</p>
+            </span>
+        </div>
+    </div>
+    <button type="button" class="btn btn-light btn-lg btn-block more-btn">
+        More
+    </button>
+
+
+</div>

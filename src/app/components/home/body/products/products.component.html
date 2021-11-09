@@ -1,0 +1,14 @@
+<div class="col-md-4 col-sm-3 d-inline-block m-3 Product_card" #myVar *ngFor="let Product of Products | searchFilter:selectedCategory:'Product_type' | searchFilter:selectedBrand:'Product_brand'| count: selectedCount | sortFilter:['Product_name',selectedOrder]" >
+    <div class="card align-items-center">
+        <img class="card-img-top" [src]="Product.Product_img" alt="Refresh the page">
+
+        <div class="card-body text-center">
+            <h5 class="card-title">{{Product.Product_name}}</h5>
+            <p><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i
+                    class="fas fa-star"></i><i class="fas fa-star-half"></i></p>
+            <p><span class="d-mrp">${{Product.Product_offer_price}}</span><span
+                    class="o-mrp">${{Product.Product_price}}</span></p>
+        </div>
+    </div>
+
+</div>

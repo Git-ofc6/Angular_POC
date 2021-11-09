@@ -1,0 +1,101 @@
+/* You can add global styles to this file, and also import other style files */
+@import url('https://fonts.googleapis.com/css2?family=Montserrat&display=swap');
+html{
+    scroll-behavior: smooth;
+    overflow-x: hidden;
+}
+html::-webkit-scrollbar {
+    display: none;
+  }
+  body{
+    font-family: sans-serif;
+    
+  }
+  
+.carousel-item img {
+    height: 315px;
+}
+/* star color */
+.rs .fas{
+    color: #ffca28;
+}
+/* mrp colors */
+.d-mrp{
+    color: orangered;
+    font-weight: 700;
+}
+.o-mrp{
+    color: grey;
+    text-decoration: line-through;
+    margin-left: 10px;
+}
+.card-img-top{
+
+    height:220px;
+    width: 200px;
+}
+.rs{
+    margin-top: 20px;
+}
+  /* Footer */
+  .footer-icons {
+    padding: 5%;
+    margin-top: 5%;
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.beep {
+  
+    padding: 0% 10%;
+    text-align: justify;
+}
+
+.beep img {
+   margin-top: 20px;
+    margin-bottom: 15px;
+    -webkit-filter: grayscale(100%);
+    /* Safari 6.0 - 9.0 */
+    filter: grayscale(100%);
+    opacity: 0.69;
+}
+
+.follow {
+   
+    padding: 6% 20% 0% 8%;
+    text-align: justify;
+}
+
+.follow h4 {
+    margin-bottom: 20px;
+}
+
+.contact {
+   
+    padding: 6% 20% 0% 8%;
+}
+
+.contact h4 {
+    margin-bottom: 20px;
+}
+
+
+.card{
+    border-radius: 10px;
+}
+.card img {
+    transition: 0.5s all ease-in-out;
+}
+
+/* .card:hover img {
+    transform: scale(1.2);
+    -webkit-filter: drop-shadow(5px 5px 5px #222);
+    filter: drop-shadow(5px 5px 5px #222);
+} */
+
+.text-dark{
+    color: black;
+}
+.bg-white{
+    background-color: whitesmoke;
+}

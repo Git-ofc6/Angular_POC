@@ -1,0 +1,14 @@
+.sort-box .active{
+    color: #2185D0;
+  }
+  .fas{
+    cursor: pointer;
+  }
+  .sort-box{
+    background-color: #F6F7F9;
+    border-radius: 6px;
+    box-shadow: 0 11px 20px -15px rgba(0, 0, 0, 0.3);
+    padding: 0px 20px;
+    margin-top: 20px;
+    padding-left: 10px;
+  }

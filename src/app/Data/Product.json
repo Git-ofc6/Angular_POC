@@ -1,0 +1,561 @@
+[
+    {
+        "ID":1,
+        "Product_img": "assets/headphones/Alien ware wirless.png",
+        "Product_name": "Alienware",
+        "Product_price": 578,
+        "Product_offer_price": 446,
+        "Product_brand":"others",
+        "Product_type":"headphones"
+    },
+    {
+        "ID":2,
+        "Product_img": "assets/headphones/Hyperx-Cloud-II-Gaming-Headset-PNG-Picture.png",
+        "Product_name": "HyperxCloud II",
+        "Product_price": 598,
+        "Product_offer_price": 436,
+        "Product_brand":"others",
+        "Product_type":"headphones"
+    },
+    {
+        "ID":3,
+        "Product_img": "assets/headphones/Beats Gaming-Headset.png",
+        "Product_name": "Beats",
+        "Product_price": 658,
+        "Product_offer_price": 543,
+        "Product_brand":"others",
+        "Product_type":"headphones"
+    },
+    {
+        "ID":4,
+        "Product_img": "assets/headphones/Corsair Gaming-Headset.png",
+        "Product_name": "Corsair",
+        "Product_price": 613,
+        "Product_offer_price": 336,
+        "Product_brand":"others",
+        "Product_type":"headphones"
+    },
+    {
+        "ID":5,
+        "Product_img": "assets/headphones/Jabra.png",
+        "Product_name": "Jabra",
+        "Product_price": 544,
+        "Product_offer_price": 287,
+        "Product_brand":"others",
+        "Product_type":"headphones"
+    },
+    {
+        "ID":6,
+        "Product_img": "assets/headphones/Logitech-Gaming-Headset.png",
+        "Product_name": "Logitech",
+        "Product_price": 291,
+        "Product_offer_price": 210,
+        "Product_brand":"others",
+        "Product_type":"headphones"
+    },
+    {
+        "ID":7,
+        "Product_img": "assets/headphones/Techno Gaming-Headset.png",
+        "Product_name": "Techno",
+        "Product_price": 549,
+        "Product_offer_price": 117,
+        "Product_brand":"others",
+        "Product_type":"headphones"
+    },
+    {
+        "ID":8,
+        "Product_img": "assets/headphones/ROGGaming-Headset.png",
+        "Product_name": "ROG Gaming Headset",
+        "Product_price": 339,
+        "Product_offer_price": 550,
+        "Product_brand":"others",
+        "Product_type":"headphones"
+    },
+    {
+        "ID":9,
+        "Product_img": "assets/headphones/Senheiser.png",
+        "Product_name": "Senheiser",
+        "Product_price": 500,
+        "Product_offer_price": 132,
+        "Product_brand":"others",
+        "Product_type":"headphones"
+    },
+    {
+        "ID":10,
+        "Product_img": "assets/headphones/Soundcare.png",
+        "Product_name": "Soundcore",
+        "Product_price": 213,
+        "Product_offer_price": 431,
+        "Product_brand":"others",
+        "Product_type":"headphones"
+    },
+    {
+        "ID":11,
+        "Product_img": "assets/headphones/Tag.png",
+        "Product_name": "Tag",
+        "Product_price": 485,
+        "Product_offer_price": 379,
+        "Product_brand":"others",
+        "Product_type":"headphones"
+    },
+    {
+        "ID":12,
+        "Product_img": "assets/headphones/Wous.png",
+        "Product_name": "Wous",
+        "Product_price": 577,
+        "Product_offer_price": 261,
+        "Product_brand":"others",
+        "Product_type":"headphones"
+    },
+    {
+        "ID":13,
+        "Product_img": "https://www.reliancedigital.in/medias/Apple-12-Smartphones-491901531-i-1-1200Wx1200H-300Wx300H?context=bWFzdGVyfGltYWdlc3wzODkxMHxpbWFnZS9qcGVnfGltYWdlcy9oMjgvaGY2Lzk0MDc3MjI1MjA2MDYuanBnfDA3MjRkMGZjMjBkZGNhYjgyZjg1NjQ0ZWQ4ZWMyOGM4ZGQ4OTk4MjVlMzViZDllNTgzZmRiYzMwNDA3ZTliZDM",
+        "Product_name": "Iphone 12 64GB",
+        "Product_price": 1100,
+        "Product_offer_price": 998,
+        "Product_brand":"apple",
+        "Product_type":"smartphones"
+    },
+    {
+        "ID":14,
+        "Product_img": "https://store.storeimages.cdn-apple.com/4668/as-images.apple.com/is/iphone-13-pink-select-2021?wid=470&hei=556&fmt=jpeg&qlt=95&.v=1629842709000",
+        "Product_name": "Iphone 13 128GB",
+        "Product_price": 1300,
+        "Product_offer_price": 1130,
+        "Product_brand":"apple",
+        "Product_type":"smartphones"
+    },{
+        "ID":15,
+        "Product_img": "https://store.storeimages.cdn-apple.com/4668/as-images.apple.com/is/iphone-13-blue-select-2021?wid=470&hei=556&fmt=jpeg&qlt=95&.v=1629842712000",
+        "Product_name": "Iphone 13 256GB",
+        "Product_price": 1350,
+        "Product_offer_price": 1200,
+        "Product_brand":"apple",
+        "Product_type":"smartphones"
+    },{
+        "ID":16,
+        "Product_img": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/iphone11-red-select-2019?wid=940&hei=1112&fmt=png-alpha&.v=1566956144763",
+        "Product_name": "Iphone 11 64GB",
+        "Product_price": 1000,
+        "Product_offer_price": 798,
+        "Product_brand":"apple",
+        "Product_type":"smartphones"
+    },{
+        "ID":17,
+        "Product_img": "https://store.storeimages.cdn-apple.com/4668/as-images.apple.com/is/iphone-13-pro-max-blue-witb-202109_FMT_WHH?wid=560&hei=744&fmt=jpeg&qlt=80&.v=1630447961000",
+        "Product_name": "Iphone 13 PRO MAX 128GB",
+        "Product_price": 1350,
+        "Product_offer_price": 1258,
+        "Product_brand":"apple",
+        "Product_type":"smartphones"
+    },{
+        "ID":18,
+        "Product_img": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/iphone-se-white-select-2020?wid=834&hei=1000&fmt=jpeg&qlt=95&.v=1586574259457",
+        "Product_name": "Iphone SE 64GB",
+        "Product_price": 900,
+        "Product_offer_price": 778,
+        "Product_brand":"apple",
+        "Product_type":"smartphones"
+    },{
+        "ID":19,
+        "Product_img": "https://as-images.apple.com/is/refurb-iphone-xs-silver?wid=1000&hei=1000&fmt=jpeg&qlt=95&.v=1579299535944",
+        "Product_name": "Iphone XS 64GB",
+        "Product_price": 950,
+        "Product_offer_price": 800,
+        "Product_brand":"apple",
+        "Product_type":"smartphones"
+    },{
+        "ID":20,
+        "Product_img": "https://m.media-amazon.com/images/I/81jqUPkIVRL._SX569_.jpg",
+        "Product_name": "Airpods pro max",
+        "Product_price": 1000,
+        "Product_offer_price": 400,
+        "Product_brand":"apple",
+        "Product_type":"headphones"
+    },{
+        "ID":21,
+        "Product_img": "https://images.news18.com/ibnlive/uploads/2021/02/1612504035_samsung-galaxy-buds-pro-1.jpg",
+        "Product_name": "Samsung Galaxy Buds Pro",
+        "Product_price": 600,
+        "Product_offer_price": 350,
+        "Product_brand":"samsung",
+        "Product_type":"headphones"
+    },{
+        "ID":22,
+        "Product_img": "https://m.media-amazon.com/images/I/61YVqHdFRxL._AC_SX679_.jpg",
+        "Product_name": "Samsung Galaxy S10+",
+        "Product_price": 990,
+        "Product_offer_price": 800,
+        "Product_brand":"samsung",
+        "Product_type":"smartphones"
+    },{
+        "ID":23,
+        "Product_img": "https://images.samsung.com/in/smartphones/galaxy-note20/buy/005-galaxynote20-mysticgreen-mo-720.jpg?imwidth=720",
+        "Product_name": "Samsung Galaxy Note 20",
+        "Product_price": 999,
+        "Product_offer_price": 900,
+        "Product_brand":"samsung",
+        "Product_type":"smartphones"
+    },{
+        "ID":24,
+        "Product_img": "https://images.samsung.com/is/image/samsung/assets/uk/galaxy-a52/pcd/a-category/img_bnn_galaxy_device.png?$ORIGIN_PNG$",
+        "Product_name": "Samsung A Series",
+        "Product_price": 600,
+        "Product_offer_price": 400,
+        "Product_brand":"samsung",
+        "Product_type":"smartphones"
+    },{
+        "ID":25,
+        "Product_img": "https://images.samsung.com/is/image/samsung/p6pim/au/galaxy-s21/gallery/au-galaxy-s21-5g-g991-sm-g991bzvaats-359207271",
+        "Product_name": "Samsung Galaxy S21",
+        "Product_price": 900,
+        "Product_offer_price": 888,
+        "Product_brand":"samsung",
+        "Product_type":"smartphones"
+    },{
+        "ID":26,
+        "Product_img": "https://images.samsung.com/is/image/samsung/assets/in/z-fold2-m.jpg",
+        "Product_name": "Samsung Z Fold 2",
+        "Product_price": 1000,
+        "Product_offer_price": 998,
+        "Product_brand":"samsung",
+        "Product_type":"smartphones"
+    },{
+        "ID":27,
+        "Product_img": "https://i.gadgets360cdn.com/products/large/1519585124_635_samsung_galaxy_s9_blue.jpg",
+        "Product_name": "Samsung Galaxy S9",
+        "Product_price": 700,
+        "Product_offer_price": 668,
+        "Product_brand":"samsung",
+        "Product_type":"smartphones"
+    },{
+        "ID":28,
+        "Product_img": "https://images.samsung.com/is/image/samsung/africa-en-galaxy-a31-a315-sm-a315fzkvxfe-back-245727511?$720_576_PNG$",
+        "Product_name": "Samsung A31",
+        "Product_price": 400,
+        "Product_offer_price": 328,
+        "Product_brand":"samsung",
+        "Product_type":"smartphones"
+    },{
+        "ID":29,
+        "Product_img": "https://img.global.news.samsung.com/global/wp-content/uploads/2020/01/GalaxyS10LitePR_main.jpg",
+        "Product_name": "Samsung S10 Lite",
+        "Product_price": 890,
+        "Product_offer_price": 800,
+        "Product_brand":"samsung",
+        "Product_type":"smartphones"
+    },{
+        "ID":30,
+        "Product_img": "https://images.ctfassets.net/wcfotm6rrl7u/2g7JeDqwcUNsGexCStAzKe/d7b7f2eccff7acdced1b6e8ac559d0df/nokia_G50-DTC-Hero-mobile.png?f=center&fit=fill&q=88",
+        "Product_name": "Nokia 7",
+        "Product_price": 300,
+        "Product_offer_price": 250,
+        "Product_brand":"nokia",
+        "Product_type":"smartphones"
+    },{
+        "ID":31,
+        "Product_img": "https://www.gizmochina.com/wp-content/uploads/2020/03/Nokia-1.3.jpg",
+        "Product_name": "Nokia 1.3",
+        "Product_price": 200,
+        "Product_offer_price": 178,
+        "Product_brand":"nokia",
+        "Product_type":"smartphones"
+    },{
+        "ID":32,
+        "Product_img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQImRCPlrh99to6ID98DTuxaSXWTx6MnD3h6wljuvvRIHgTgYOtv9ehWmAIY56Lsz6T_a4&usqp=CAU",
+        "Product_name": "Nokia G20",
+        "Product_price": 300,
+        "Product_offer_price": 220,
+        "Product_brand":"nokia",
+        "Product_type":"smartphones"
+    },{
+        "ID":33,
+        "Product_img": "https://i01.appmifile.com/webfile/globalimg/in/cms/303D1336-249C-0113-DA94-01ED533069F8.jpg",
+        "Product_name": "Redmi 9 Prime",
+        "Product_price": 193,
+        "Product_offer_price": 150,
+        "Product_brand":"redmi",
+        "Product_type":"smartphones"
+    },{
+        "ID":34,
+        "Product_img": "https://i01.appmifile.com/webfile/globalimg/7/15944015-72FA-3105-CE5C-0C68E04C7BE6.png",
+        "Product_name": "Redmi Note 9 Pro",
+        "Product_price": 200,
+        "Product_offer_price": 199,
+        "Product_brand":"redmi",
+        "Product_type":"smartphones"
+    },{
+        "ID":35,
+        "Product_img": "https://i01.appmifile.com/webfile/globalimg/7/980818E6-5BF7-2ACB-8EA4-EE4CE145B40F.png",
+        "Product_name": "Redmi Note 8 Pro",
+        "Product_price": 320,
+        "Product_offer_price": 258,
+        "Product_brand":"redmi",
+        "Product_type":"smartphones"
+    },{
+        "ID":36,
+        "Product_img": "https://cdn.shopify.com/s/files/1/0231/3627/2464/products/Redmi-10---Product-Images-1-600x600_c5f22593-bb0f-4ed6-96d5-2cac1d5211f8.png?v=1631817731",
+        "Product_name": "Redmi 10",
+        "Product_price": 400,
+        "Product_offer_price": 398,
+        "Product_brand":"redmi",
+        "Product_type":"smartphones"
+    },{
+        "ID":37,
+        "Product_img": "https://i01.appmifile.com/webfile/globalimg/in/cms/FE1C9BBB-AC9A-EB3D-713C-F1718FAB3FC9.jpg",
+        "Product_name": "Redmi 9 Power",
+        "Product_price": 340,
+        "Product_offer_price": 298,
+        "Product_brand":"redmi",
+        "Product_type":"smartphones"
+    },{
+        "ID":38,
+        "Product_img": "https://i01.appmifile.com/webfile/globalimg/products/pc/redmi-note-9s/specs-1.png",
+        "Product_name": "Redmi Note 9s",
+        "Product_price": 200,
+        "Product_offer_price": 188,
+        "Product_brand":"redmi",
+        "Product_type":"smartphones"
+    },{
+        "ID":39,
+        "Product_img": "https://i01.appmifile.com/webfile/globalimg/products/pc/redmi-note-9t/specs-header-5g.png",
+        "Product_name": "Redmi 9T",
+        "Product_price": 260,
+        "Product_offer_price": 200,
+        "Product_brand":"redmi",
+        "Product_type":"smartphones"
+    },{
+        "ID":40,
+        "Product_img": "https://m.media-amazon.com/images/I/51UDqk0jUAL._AC_SY355_.jpg",
+        "Product_name": "Redmi Airdots ",
+        "Product_price": 100,
+        "Product_offer_price": 78,
+        "Product_brand":"redmi",
+        "Product_type":"headphones"
+    },{
+        "ID":41,
+        "Product_img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQwKj6YrXxolVQ3jWdblhHMuNSwOpGH4LIrsd9MODtgru4ep3aipLYamPE2X4QEiPhCang&usqp=CAU",
+        "Product_name": "Redmi Buds 3 Pro",
+        "Product_price": 120,
+        "Product_offer_price": 98,
+        "Product_brand":"redmi",
+        "Product_type":"headphones"
+    },{
+        "ID":42,
+        "Product_img": "https://i.gadgets360cdn.com/products/large/redmi-buds-3-541x800-1630991585.jpg",
+        "Product_name": "Redmi Buds 3",
+        "Product_price": 140,
+        "Product_offer_price": 111,
+        "Product_brand":"redmi",
+        "Product_type":"headphones"
+    },{
+        "ID":43,
+        "Product_img": "https://www.gizmochina.com/wp-content/uploads/2020/09/Realme-7.jpg",
+        "Product_name": "Realme 7",
+        "Product_price": 400,
+        "Product_offer_price": 298,
+        "Product_brand":"realme",
+        "Product_type":"smartphones"
+    },{
+        "ID":44,
+        "Product_img": "https://image01.realme.net/general/20210811/1628679211540.png",
+        "Product_name": "Realme GT",
+        "Product_price": 440,
+        "Product_offer_price": 320,
+        "Product_brand":"realme",
+        "Product_type":"smartphones"
+    },{
+        "ID":45,
+        "Product_img": "https://www.gizmochina.com/wp-content/uploads/2020/08/Realme-X7-Pro.jpg",
+        "Product_name": "Realme X7",
+        "Product_price": 340,
+        "Product_offer_price": 288,
+        "Product_brand":"realme",
+        "Product_type":"smartphones"
+    },{
+        "ID":46,
+        "Product_img": "https://www.notebookcheck.net/uploads/tx_nbc2/4_zu_3_Teaser_realme_6_Pro.jpg",
+        "Product_name": "Realme 6 Pro",
+        "Product_price": 400,
+        "Product_offer_price": 298,
+        "Product_brand":"realme",
+        "Product_type":"smartphones"
+    },{
+        "ID":47,
+        "Product_img": "https://m.media-amazon.com/images/I/71LOa1JA0qL._SL1500_.jpg",
+        "Product_name": "Realme Buds Q",
+        "Product_price": 200,
+        "Product_offer_price": 138,
+        "Product_brand":"realme",
+        "Product_type":"headphones"
+    },{
+        "ID":48,
+        "Product_img": "https://image05.realme.net/general/20210531/1622450716826.jpg",
+        "Product_name": "Realme Buds Air Pro",
+        "Product_price": 190,
+        "Product_offer_price": 140,
+        "Product_brand":"realme",
+        "Product_type":"headphones"
+    },{
+        "ID":49,
+        "Product_img": "https://www.gizmochina.com/wp-content/uploads/2020/09/Motorola-Moto-G9-Plus-500x500.jpg",
+        "Product_name": "Motorola G9 Plus",
+        "Product_price": 980,
+        "Product_offer_price": 910,
+        "Product_brand":"motorola",
+        "Product_type":"smartphones"
+    },{
+        "ID":50,
+        "Product_img": "https://m.media-amazon.com/images/I/61aWtezBYlL._AC_SX522_.jpg",
+        "Product_name": "Motorola edge",
+        "Product_price": 900,
+        "Product_offer_price": 798,
+        "Product_brand":"motorola",
+        "Product_type":"smartphones"
+    },{
+        "ID":51,
+        "Product_img": "https://rukminim1.flixcart.com/image/612/612/kqgyhe80/cases-covers/back-cover/p/k/m/m32-flip-coffebrwn-shinestar-original-imag4gxsjgzvrnam.jpeg?q=70",
+        "Product_name": "Leather Backcover M32",
+        "Product_price": 30,
+        "Product_offer_price": 18,
+        "Product_brand":"samsung",
+        "Product_type":"cases"
+    },{
+        "ID":52,
+        "Product_img": "https://rukminim1.flixcart.com/image/612/612/ku2zjww0/cases-covers/back-cover/2/4/1/cover-tr-1-to-iphn-12-mini-tough-lee-original-imag7ayesz9pq3qg.jpeg?q=70",
+        "Product_name": "Backcover IPhone",
+        "Product_price": 50,
+        "Product_offer_price": 28,
+        "Product_brand":"apple",
+        "Product_type":"cases"
+    },{
+        "ID":53,
+        "Product_img": "https://rukminim1.flixcart.com/image/612/612/knt7zbk0/cases-covers/back-cover/s/h/m/back-cover-for-redmi-9i-redmi-9a-smoke-case-shock-proof-smooth-original-imag2emkagdphgz4.jpeg?q=70",
+        "Product_name": "Backcover 9A",
+        "Product_price": 30,
+        "Product_offer_price": 8,
+        "Product_brand":"redmi",
+        "Product_type":"cases"
+    },{
+        "ID":54,
+        "Product_img": "https://rukminim1.flixcart.com/image/612/612/ku1k4280/cases-covers/back-cover/7/b/l/76690-unistuff-original-imag7962hg2wvy6h.jpeg?q=70",
+        "Product_name": "Backcover 50A",
+        "Product_price": 32,
+        "Product_offer_price": 26,
+        "Product_brand":"realme",
+        "Product_type":"cases"
+    },{
+        "ID":55,
+        "Product_img": "https://rukminim1.flixcart.com/image/612/612/jlgwmfk0/cases-covers/flip-cover/9/u/z/fresca-brown-op-rl-me-2-original-imaf2sp8k9krcjqe.jpeg?q=70",
+        "Product_name": "Backcover J7",
+        "Product_price": 20,
+        "Product_offer_price": 18,
+        "Product_brand":"samsung",
+        "Product_type":"cases"
+    },{
+        "ID":56,
+        "Product_img": "https://rukminim1.flixcart.com/image/612/612/ku2zjww0/cases-covers/flip-cover/x/e/a/j1-lather-sp5028-spicesun-original-imag7ayfzxyvsj3c.jpeg?q=70",
+        "Product_name": "Backcover C21",
+        "Product_price": 18,
+        "Product_offer_price": 15,
+        "Product_brand":"realme",
+        "Product_type":"cases"
+    },{
+        "ID":57,
+        "Product_img": "https://rukminim1.flixcart.com/image/612/612/keq058w0/cases-covers/back-cover/s/z/q/bozti-redmi-9a-blue-vinty-original-imafvckjwbvhchgf.jpeg?q=70",
+        "Product_name": "Backcover 9A",
+        "Product_price": 20,
+        "Product_offer_price": 19,
+        "Product_brand":"redmi",
+        "Product_type":"cases"
+    },{
+        "ID":58,
+        "Product_img": "https://rukminim1.flixcart.com/image/612/612/klv7ekw0/cases-covers/back-cover/9/r/t/smc-n6p1p-tpu-1434-swagmycase-original-imagyw7vjtksh3tn.jpeg?q=70",
+        "Product_name": "Backcover 6.1",
+        "Product_price": 33,
+        "Product_offer_price": 30,
+        "Product_brand":"nokia",
+        "Product_type":"cases"
+    },{
+        "ID":59,
+        "Product_img": "https://rukminim1.flixcart.com/image/612/612/jsyyufk0/cases-covers/back-cover/z/f/f/vakibo-nk5-1plus-avg-original-imafeenyyme2xbcq.jpeg?q=70",
+        "Product_name": "Ironman Backcover 3",
+        "Product_price": 40,
+        "Product_offer_price": 38,
+        "Product_brand":"nokia",
+        "Product_type":"cases"
+    },{
+        "ID":60,
+        "Product_img": "https://rukminim1.flixcart.com/image/612/612/kq9ta4w0/cases-covers/back-cover/1/r/4/g30bg-hyb-5-smartcase-original-imag4bx5yxjhku8g.jpeg?q=70",
+        "Product_name": "Backcover for G10",
+        "Product_price": 20,
+        "Product_offer_price": 29,
+        "Product_brand":"motorola",
+        "Product_type":"cases"
+    },{
+        "ID":61,
+        "Product_img": "https://rukminim1.flixcart.com/image/612/612/kfcv6vk0/power-bank/r/f/5/power-bank-20000-plm18zm-mi-original-imafvtc7x9zgrzbz.jpeg?q=70",
+        "Product_name": "Power Bank",
+        "Product_price": 90,
+        "Product_offer_price": 88,
+        "Product_brand":"redmi",
+        "Product_type":"accessory"
+    },{
+        "ID":62,
+        "Product_img": "https://rukminim1.flixcart.com/image/612/612/kmxsakw0/power-bank/6/s/n/power-bank-pp-111-ambrane-original-imagfq9fwen2ekyx.jpeg?q=70",
+        "Product_name": "Ambrane 20000mah",
+        "Product_price": 70,
+        "Product_offer_price": 58,
+        "Product_brand":"others",
+        "Product_type":"accessory"
+    },{
+        "ID":63,
+        "Product_img": "https://rukminim1.flixcart.com/image/612/612/kfzq8i80/power-bank/w/c/p/power-bank-20000-rma2005-realme-original-imafwb6wcpayznfd.jpeg?q=70",
+        "Product_name": "Powerbank 18w",
+        "Product_price": 70,
+        "Product_offer_price": 68,
+        "Product_brand":"realme",
+        "Product_type":"accessory"
+    },{
+        "ID":64,
+        "Product_img": "https://rukminim1.flixcart.com/image/612/612/ksyz8280/data-cable/micro-usb-cable/9/8/p/2-4a-fast-charge-1-2m-micro-usb-sync-and-charge-cable-original-imag6ey5htgjtxe4.jpeg?q=70",
+        "Product_name": "Micro USB 2.1",
+        "Product_price": 10,
+        "Product_offer_price": 8,
+        "Product_brand":"others",
+        "Product_type":"cables"
+    },{
+        "ID":65,
+        "Product_img": "https://rukminim1.flixcart.com/image/612/612/kuof5ow0/data-cable/lightning-cable/4/m/s/double-braided-usb-a-to-lightning-cord-3-1a-fast-charging-data-original-imag7qsn28nxfbg9.jpeg?q=70",
+        "Product_name": "Agnile USB type-C",
+        "Product_price": 12,
+        "Product_offer_price": 10,
+        "Product_brand":"others",
+        "Product_type":"cables"
+    },{
+        "ID":66,
+        "Product_img": "https://rukminim1.flixcart.com/image/312/312/ksj9dow0/mobile/1/d/v/a1-josh-2021-lf1001-lava-original-imag62vfzav9ttrb.jpeg?q=70",
+        "Product_name": "Lava",
+        "Product_price": 100,
+        "Product_offer_price": 100,
+        "Product_brand":"others",
+        "Product_type":"smartphones"
+    },{
+        "ID":67,
+        "Product_img": "https://rukminim1.flixcart.com/image/612/612/ktlu9ow0/cases-covers/back-cover/2/d/e/shuter-blk-a54-dibox-original-imag6wtyxwgyfa2v.jpeg?q=70",
+        "Product_name": "Backcover oppo",
+        "Product_price": 30,
+        "Product_offer_price": 8,
+        "Product_brand":"others",
+        "Product_type":"cases"
+    },{
+        "ID":68,
+        "Product_img": "https://rukminim1.flixcart.com/image/612/612/klphn680/cases-covers/back-cover/j/e/n/64615-mecase-original-imagys265vxfgwff.jpeg?q=70",
+        "Product_name": "Backcover infinix",
+        "Product_price": 10,
+        "Product_offer_price": 10,
+        "Product_brand":"others",
+        "Product_type":"cases"
+    }
+
+]

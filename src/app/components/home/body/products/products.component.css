@@ -1,0 +1,27 @@
+/* star color */
+.Product_card .fas{
+    color: #ffca28;
+}
+/* mrp colors */
+.d-mrp{
+    color: orangered;
+    font-weight: 700;
+}
+.o-mrp{
+    color: grey;
+    text-decoration: line-through;
+    margin-left: 10px;
+}
+.card-img-top{
+    width:max-content;
+    height: 210px;
+
+}
+.Product_card{
+    margin-top: 20px;
+    width: 283px;
+    
+}
+.Product_card .card{
+  overflow: hidden;
+}

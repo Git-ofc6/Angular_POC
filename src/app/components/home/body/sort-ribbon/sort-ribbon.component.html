@@ -1,0 +1,29 @@
+<div>
+    <div class="row py-3 mx-3 sort-box">
+        <div class="col-md-3 col-sm-3 mt-2 ">
+            <span class="count">{{totalItems}}</span>
+            <span> items</span>
+        </div>
+        <div class="col-md-3 col-sm-3 mt-2">
+            <label for="SortBy" class="px-3">Sort By </label>
+            <select id="SortBy" name="Sort-By" (change)="sortOrder($event)" >
+                <option value="asc">Ascending</option>
+                <option value="desc">Descending</option>
+            </select>
+        </div>
+        <div class="col-md-3 col-sm-3 mt-2">
+            <label for="CountSort" class="px-3">Show </label>
+            <select  id="CountSort" name="count" (change)="countNumber($event)">
+                <option value="3">3</option>
+                <option value="8">8</option>
+                <option value="11">11</option>
+                <option value="15">15</option>
+            </select>
+            
+        </div>
+        <div class="col-md-3 col-sm-3 d-flex justify-content-around mt-1">
+            <i class="fas fa-th active btn-lg " ></i>
+            <i class="fas fa-bars btn-lg"  ></i>
+        </div>
+    </div>
+</div>
